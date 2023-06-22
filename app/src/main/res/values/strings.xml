@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Ejercicio1m5</string>
     <string name="toolbar">Ejercicio1m5</string>
-
+    <string name="hint">Enter a URL</string>
+    <string name="boton1">Go</string>
+    <string name="boton2">Exit</string>
 </resources>
